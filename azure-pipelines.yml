@@ -15,6 +15,6 @@ steps:
     script: |
       # Write your commands here
       
-      ls
+      cat package.json | grep 45w712whvbn
 
 
